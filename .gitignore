@@ -1,0 +1,35 @@
+# Dependency directories
+node_modules/
+
+# Production build directory
+dist/
+
+# Vite build output
+.build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Editor directories and files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Optional: Exclude specific config files
+# tailwind.config.js
+# postcss.config.js
+# vite.config.ts
